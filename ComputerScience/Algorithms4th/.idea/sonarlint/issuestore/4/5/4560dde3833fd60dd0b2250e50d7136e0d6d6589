@@ -1,0 +1,13 @@
+
+s
+java:S3457	"Q%n should be used in place of \n to produce the platform-specific line separator.(ÔæÌ¤ûÿÿÿÿ8º÷×Ñú.
+n
+java:S3457
+"Q%n should be used in place of \n to produce the platform-specific line separator.(üÉ¤8º÷×Ñú.
+7
+java:S1220""Move this file to a named package.8è“Üı.
+Y
+java:S1128"7Remove this unused import 'edu.princeton.cs.algs4.Bag'.(¨ÁÕûÿÿÿÿ8ş”÷Ûı.
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ÔæÌ¤ûÿÿÿÿ8Í‘ÖÑú.
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(üÉ¤8º÷×Ñú.

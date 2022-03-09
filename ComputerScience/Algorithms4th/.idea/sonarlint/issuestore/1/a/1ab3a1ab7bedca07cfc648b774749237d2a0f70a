@@ -1,0 +1,10 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹òèûüÿÿÿÿ8î›ÏÑú.
+V
+java:S1128"9Remove this unused import 'edu.princeton.cs.algs4.StdIn'.(¦ÿ—¿8øˆÓÑú.
+_
+java:S1128"=Remove this unused import 'edu.princeton.cs.algs4.StdRandom'.(ª”²Ñşÿÿÿÿ8øˆÓÑú.
+7
+java:S1220""Move this file to a named package.8¨şŒÜı.
+W
+java:S1128":Remove this unused import 'edu.princeton.cs.algs4.StdOut'.(³ùå8øˆÓÑú.
